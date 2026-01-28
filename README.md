@@ -4,7 +4,7 @@
 Este repositorio contiene la implementación práctica de la guía **“Building REST services with Spring”** del sitio oficial de Spring.  
 Aprenderás a construir un servicio **RESTful** usando **Spring Boot**, **Spring MVC**, **Spring Data JPA** y **Spring HATEOAS** paso a paso.
 
-🔗 Base de la guía: https://spring.io/guides/tutorials/rest :contentReference[oaicite:4]{index=4}
+🔗 Base de la guía: https://spring.io/guides/tutorials/rest
 
 ---
 
