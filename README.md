@@ -12,7 +12,7 @@ Aprenderás a construir un servicio **RESTful** usando **Spring Boot**, **Spring
 
 - 🚀 Un servicio REST básico con operaciones **CRUD** para la entidad `Employee`.
 - 📊 Uso de **Spring Data JPA** para persistencia con una base de datos en memoria (H2).
-- 🧩 Implementación de **Spring HATEOAS** para enlaces en las respuestas y API más *RESTful*. :contentReference[oaicite:5]{index=5}
+- 🧩 Implementación de **Spring HATEOAS** para enlaces en las respuestas y API más *RESTful*.
 - 🧪 Ejemplos de llamadas HTTP con `curl`.
 - 📁 Código dividido según las secciones de la guía oficial.
 
