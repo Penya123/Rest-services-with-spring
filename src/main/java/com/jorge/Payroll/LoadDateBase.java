@@ -15,10 +15,10 @@ public class LoadDateBase {
     @Bean
     CommandLineRunner initDateBase(EmployeeRepository repository){
         return args -> {
-            log.info("Preloading " + repository.save(new Employee("Andrea Mejía", "CEO")));
-            log.info("Preloading " + repository.save(new Employee("Andy Carrillo", "coFounder")));
-            log.info("Preloading " + repository.save(new Employee("Jorge", "CEO lover")));
-            log.info("Preloafing " + repository.save(new Employee("Eduardo", "Tester")));
+            log.info("Preloading " + repository.save(new Employee("Andrea", "Mejía", "CEO")));
+            log.info("Preloading " + repository.save(new Employee("Andy", "Carrillo", "coFounder")));
+            log.info("Preloading " + repository.save(new Employee("Jorge", "Sandoval", "CEO lover")));
+            log.info("Preloafing " + repository.save(new Employee("Eduardo", "Oleta", "Tester")));
         };
     }
 }
